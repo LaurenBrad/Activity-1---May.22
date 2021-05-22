@@ -1,2 +1,2 @@
-# Activity-1---May.22
+# Activity1
 Create and personalize a GitHub Repository activity
